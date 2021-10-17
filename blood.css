@@ -37,13 +37,6 @@ header {
 	background: #fff;
 	color: #333;
 }
-.logo {
-	float: left;
-}
-.logo img {
-	width: 100%;
-	padding: 15px 0;
-}
 .welcome-text {
 	position: absolute;
 	width: 600px;
